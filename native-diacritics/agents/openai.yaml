@@ -1,0 +1,14 @@
+interface:
+  display_name: Native Diacritics
+  short_description: Schreibt Umlaute und Sonderzeichen korrekt
+  default_prompt: Use $native-diacritics to write this text with all language-correct
+    Unicode characters.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
