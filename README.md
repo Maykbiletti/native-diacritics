@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/social-preview.png" alt="Native Diacritics — Every language. Written correctly." width="100%">
+</p>
+
 <div align="center">
 
 <pre>
